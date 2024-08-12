@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Semua Role</name>
+   <tag></tag>
+   <elementGuidId>102aeca9-c4ad-498b-870d-a2d97a427317</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.flex-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b57f41c-5b67-49ea-96b4-9d2575860b32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1</value>
+      <webElementGuid>8491060d-889f-4e21-87f7-bfffcf044c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua Role</value>
+      <webElementGuid>67f3d368-e4f6-4d83-aadf-75b298a9c083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;pt-4 pb-4 md:p-4 border rounded-lg&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex-1 flex gap-2 md:gap-4 flex-wrap px-2&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md  w-full md:w-auto md:min-w-48 css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;legion-select__searchbar&quot;]/span[@class=&quot;flex-1&quot;]</value>
+      <webElementGuid>24cdb443-1cb2-49b9-bf84-9331d38691ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div/span[2]</value>
+      <webElementGuid>1c275c76-e2bc-4f95-a7f8-a6ff11839103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Role'])[1]/following::span[2]</value>
+      <webElementGuid>91c215dc-516c-40cd-91b8-25dd75d6ecaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengguna'])[3]/following::span[6]</value>
+      <webElementGuid>b947c839-941d-4fd2-8b6e-68942df6f326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pengguna'])[1]/preceding::span[2]</value>
+      <webElementGuid>395b9966-9d94-4bf6-acb1-e1e8ca17bde3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::span[2]</value>
+      <webElementGuid>d6e7786e-85b0-48a9-aab4-1afff45dc7a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Semua Role']/parent::*</value>
+      <webElementGuid>d577516c-fe8d-495b-a105-3c6a8653bcfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span[2]</value>
+      <webElementGuid>80e9cc71-bbe5-4354-8faa-98a3711f894b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Semua Role' or . = 'Semua Role')]</value>
+      <webElementGuid>8b7af605-5443-4c48-8958-3ebd4052d66b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

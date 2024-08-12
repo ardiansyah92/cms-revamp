@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>u_Batalkan Pilihan</name>
+   <tag></tag>
+   <elementGuidId>de83b562-43a8-492e-ac06-3dca902593ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//u[@id='id_role_cancel_option']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#id_role_cancel_option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>u</value>
+      <webElementGuid>0ee33fee-304a-49e7-be90-eb7d750ed88b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold border-l-2 px-2 cursor-pointer</value>
+      <webElementGuid>df20d39f-af1d-4dc7-87c3-e3b1e5be2d58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>id_role_cancel_option</value>
+      <webElementGuid>2e5bfe0c-c676-4db7-9700-745024310870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Batalkan Pilihan</value>
+      <webElementGuid>8de9c929-bd2d-4965-aded-611cb8156944</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_role_cancel_option&quot;)</value>
+      <webElementGuid>413ca270-8839-455f-9a12-7a399f970981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//u[@id='id_role_cancel_option']</value>
+      <webElementGuid>51e8ca94-4555-4870-b90d-0a7d717ecc64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[3]/div[2]/u</value>
+      <webElementGuid>a48a99b5-bb50-4994-9467-591d2bb474bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan Pilihan'])[1]/following::u[1]</value>
+      <webElementGuid>37554714-a218-4636-9f02-d8be044999ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::u[2]</value>
+      <webElementGuid>953fd294-bf05-4b27-aac4-62d6c648459a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[2]/preceding::u[1]</value>
+      <webElementGuid>e35f5dbb-6c6e-4eda-a295-3a3537c020d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Transaksi'])[2]/preceding::u[1]</value>
+      <webElementGuid>7ba7622a-a109-413e-9c55-c985e68ac298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/u</value>
+      <webElementGuid>cda46c37-3fd9-4b95-9242-90392d3bb589</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//u[@id = 'id_role_cancel_option' and (text() = 'Batalkan Pilihan' or . = 'Batalkan Pilihan')]</value>
+      <webElementGuid>3c2b4705-98ff-4396-837d-92a69eb7fbd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

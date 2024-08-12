@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admin Internal</name>
+   <tag></tag>
+   <elementGuidId>64023817-d4e4-4e4a-8c28-33af45df9205</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6caab0e0-b253-4d23-9006-bf733eb77142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fdb780fb-f616-497b-b036-74ec614be878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-select__item legion-select__item--selected border-b sm:border-b-0</value>
+      <webElementGuid>5543ca0e-267f-4ac3-b897-381dbbbc6b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>dc010117-c7ee-492d-9366-2d2016bc64a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin Internal</value>
+      <webElementGuid>5ee20ad2-517d-4d50-a313-5a6279674406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;pt-4 pb-4 md:p-4 border rounded-lg&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex-1 flex gap-2 md:gap-4 flex-wrap px-2&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md  w-full md:w-auto md:min-w-48 css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;css-p7d115&quot;]/span[@class=&quot;legion-select__item legion-select__item--selected border-b sm:border-b-0&quot;]</value>
+      <webElementGuid>bb2fc6c2-99f0-4f81-948c-2740aac21f9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div[2]/span[2]</value>
+      <webElementGuid>478bcada-48e5-4dee-8788-b627ce5e6a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Role'])[1]/following::span[1]</value>
+      <webElementGuid>a6431b03-21e7-4208-ae37-edd9719d8020</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B2B'])[1]/preceding::span[1]</value>
+      <webElementGuid>309ff285-ad12-4539-8c3b-75fffb942923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Data'])[1]/preceding::span[2]</value>
+      <webElementGuid>71704cd0-17d7-440a-8c51-727d263b58be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]</value>
+      <webElementGuid>45ba5020-62be-4d0e-878b-d01f8a83e63e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Admin Internal' or . = 'Admin Internal')]</value>
+      <webElementGuid>cbe43132-fe65-43b9-a75f-8f31b2949677</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

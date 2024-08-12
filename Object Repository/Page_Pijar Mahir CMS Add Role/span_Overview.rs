@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Overview</name>
+   <tag></tag>
+   <elementGuidId>bcada571-4b26-462b-8cf2-6f0dbc2d129d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div/div/fieldset/div/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.legion-checkbox__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c1cca8fe-28e3-4ffa-99da-febe89752fb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-checkbox__text</value>
+      <webElementGuid>856d3204-83fa-4254-8b89-a8ac190e2c09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Overview</value>
+      <webElementGuid>a7363e6d-cfe0-4114-b8fc-57043fc9822d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;max-w-screen-2xl mx-auto flex my-4 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;max-w-full border-t p-4 md:p-8 md:border-2 mt-4 md:rounded-lg&quot;]/div[@class=&quot;max-h-[450px] overflow-x-hidden 
+                overflow-y-auto border-t-[1px] style_bgCheckbox__hnqse&quot;]/div[@class=&quot;mb-2&quot;]/div[@class=&quot;p-4 border-b&quot;]/div[1]/fieldset[1]/div[@class=&quot;flex gap-x-4 undefined&quot;]/label[@class=&quot;legion-checkbox legion-checkbox--md css-idhqfh&quot;]/span[@class=&quot;legion-checkbox__text&quot;]</value>
+      <webElementGuid>5833d8a5-1bf7-4120-a83c-12be6d65a2a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div/div/fieldset/div/label/span[2]</value>
+      <webElementGuid>f37c7737-3b98-4e3a-882b-d0a98244d270</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[7]</value>
+      <webElementGuid>1c7be2df-cc74-4808-bef2-d90fd70a5b8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[1]</value>
+      <webElementGuid>b312fd28-2334-4173-8238-7f90081a87b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::span[2]</value>
+      <webElementGuid>d5695e17-9f06-41b2-88c9-77442330fef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>497f6e42-8eb7-4fc7-a9a3-5061338fe85b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Overview' or . = 'Overview')]</value>
+      <webElementGuid>448f2f2d-a77a-4df6-8e99-423ab0d072a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

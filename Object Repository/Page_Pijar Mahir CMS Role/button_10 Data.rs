@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_10 Data</name>
+   <tag></tag>
+   <elementGuidId>93e0deee-9435-4794-9d12-0082bc856a46</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/div[3]/div/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.legion-pagination__option__button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>94cf9f55-7f45-41ea-bf12-a1a4bd971ee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-pagination__option__button</value>
+      <webElementGuid>04f3bcc9-6daf-456d-8afd-0565bf9c44c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 Data</value>
+      <webElementGuid>d6b2c287-2553-41cd-9b0d-136d27bb4588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;pt-4 pb-4 md:p-4 border rounded-lg&quot;]/div[@class=&quot;flex justify-between mt-4&quot;]/div[@class=&quot;legion-pagination legion-pagination--rounded css-1go95bw&quot;]/div[@class=&quot;self-stretch flex justify-between items-center md:block&quot;]/div[@class=&quot;legion-pagination__option&quot;]/button[@class=&quot;legion-pagination__option__button&quot;]</value>
+      <webElementGuid>a81d61c5-e931-4b70-a460-e85984957c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/div[3]/div/div/div/button</value>
+      <webElementGuid>ad6a3212-04ae-4261-a473-7d3c408f3dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[9]/following::button[1]</value>
+      <webElementGuid>f84b3167-5433-4316-b287-95b5efd7561d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Status Role null?'])[1]/preceding::button[8]</value>
+      <webElementGuid>4a58b66e-697c-40ee-b7b7-795e7971c1a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10']/parent::*</value>
+      <webElementGuid>9a78eb32-55f5-418d-b256-3e3822623cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/button</value>
+      <webElementGuid>d24d9df5-4b8d-46bb-bde2-f54ec9d2bfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '10 Data' or . = '10 Data')]</value>
+      <webElementGuid>e1b34bc1-26de-4cff-ae0b-43f9ee17ca8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

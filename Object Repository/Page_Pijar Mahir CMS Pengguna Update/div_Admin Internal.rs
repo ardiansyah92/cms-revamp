@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Admin Internal</name>
+   <tag></tag>
+   <elementGuidId>1871d706-8576-4961-b703-0859b3b10972</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[8]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.legion-select__searchbar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>141546a5-21a0-4213-af22-b762b5e2be57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-select__searchbar</value>
+      <webElementGuid>89b07032-8a34-40ba-9ddc-03c00f539b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>search_bar</value>
+      <webElementGuid>8a8308e8-b558-426e-8ed9-ef8fef7ed980</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>c050871a-dd05-494e-a067-200a0bd2439f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin Internal</value>
+      <webElementGuid>58aad954-5ec3-44e1-8d85-f920878c6f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;flex flex-row my-6 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;border-[1px] md:border-2 mt-4 p-4 md:p-8 md:rounded-lg&quot;]/div[@class=&quot;mb-6&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;legion-select__searchbar&quot;]</value>
+      <webElementGuid>80c39e08-4561-4069-b81d-2ae47c90862a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[8]/div[2]/div/div</value>
+      <webElementGuid>348714c5-0f5e-4666-8e42-b67141cc2706</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[2]/following::div[2]</value>
+      <webElementGuid>c2dc3cc9-2d65-45aa-bf85-7c633797b1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::div[3]</value>
+      <webElementGuid>e0d62107-51f7-47b5-b4c4-35eb4ab8f7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lembaga Pelatihan'])[1]/preceding::div[1]</value>
+      <webElementGuid>b273f1c7-345e-4640-b116-0c4803b4ff96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[2]/div/div</value>
+      <webElementGuid>887b4fa0-9edf-4ffe-9573-b1b631e524db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Admin Internal' or . = 'Admin Internal')]</value>
+      <webElementGuid>994a1455-7232-4cd7-baa5-8ccdd417c83b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User Dapat Melakukan Login - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2e893ced-a9a2-41c8-8f3f-794aff3661be</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>19855411-c39e-4c99-b0ba-addc5ae54985</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5bc96515-8c3d-4ba7-a0c0-0250b9fe1625</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'superadmin'</defaultValue>
+      <description></description>
+      <id>19855411-c39e-4c99-b0ba-addc5ae54985</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'super123'</defaultValue>
+      <description></description>
+      <id>5bc96515-8c3d-4ba7-a0c0-0250b9fe1625</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

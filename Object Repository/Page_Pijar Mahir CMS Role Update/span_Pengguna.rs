@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengguna</name>
+   <tag></tag>
+   <elementGuidId>e7173e71-6c66-4a3e-a16a-664c8e3c7c17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div[2]/div/fieldset/div/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9cc754af-350d-4ab7-9909-cbcf7e8cad8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-checkbox__text</value>
+      <webElementGuid>7740b45f-e0f6-4f47-b6d1-27e1d9c19393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengguna</value>
+      <webElementGuid>5418f149-a114-4b0c-bf03-3ef5aa5125d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;max-w-screen-2xl mx-auto flex my-4 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;max-w-full border-t p-4 md:p-8 md:border-2 mt-4 md:rounded-lg&quot;]/div[@class=&quot;max-h-[450px] overflow-x-hidden 
+                overflow-y-auto border-t-[1px] style_bgCheckbox__hnqse&quot;]/div[@class=&quot;mb-2&quot;]/div[@class=&quot;pl-7 border-b py-3&quot;]/div[1]/fieldset[1]/div[@class=&quot;flex gap-x-4 grid grid-cols-1 md:grid-cols-3 gap-4 p-4&quot;]/label[@class=&quot;legion-checkbox legion-checkbox--md css-idhqfh&quot;]/span[@class=&quot;legion-checkbox__text&quot;]</value>
+      <webElementGuid>36eeda46-a374-45c6-9cd8-3c1b18e9faa5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div[2]/div/fieldset/div/label/span[2]</value>
+      <webElementGuid>ab360af5-9786-49e7-9284-e11b8d11bad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akses CMS'])[2]/following::span[2]</value>
+      <webElementGuid>89eb0b80-264e-45e2-9012-b3d8e63fd82b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan Pilihan'])[2]/following::span[4]</value>
+      <webElementGuid>1219afca-577d-48aa-ab09-58f524aebedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[2]</value>
+      <webElementGuid>88a24301-a84d-4bc3-835e-558f2f83a3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengguna'])[3]/preceding::span[4]</value>
+      <webElementGuid>e8175325-8188-4324-ab0e-f2b227cd9eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/label/span[2]</value>
+      <webElementGuid>61790e12-bfeb-4045-baf1-791738892161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pengguna' or . = 'Pengguna')]</value>
+      <webElementGuid>f5f69b53-f1dc-4810-86b8-772e142d1a46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

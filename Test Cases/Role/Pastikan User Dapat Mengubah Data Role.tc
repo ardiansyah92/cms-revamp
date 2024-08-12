@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User Dapat Mengubah Data Role</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>87db92dc-24da-4838-bc85-f1bf872fbe49</testCaseGuid>
+</TestCaseEntity>

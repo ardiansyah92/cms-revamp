@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>stage</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://cms-mainstage2.pijarmahir.id'</initValue>
+      <name>BASE_URL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

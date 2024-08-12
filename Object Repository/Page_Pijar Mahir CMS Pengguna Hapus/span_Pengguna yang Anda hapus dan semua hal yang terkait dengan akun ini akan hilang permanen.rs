@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pengguna yang Anda hapus dan semua hal yang terkait dengan akun ini akan hilang permanen</name>
+   <tag></tag>
+   <elementGuidId>017cad2e-225f-41c0-aba9-fde6803f2859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div[2]/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.legion-text.css-1po92s2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0aabe3e7-bf4c-444d-a55e-86339c853890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-text  css-1po92s2</value>
+      <webElementGuid>6e6515c7-f778-44aa-84e8-dfd5fd5ab89a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#667085</value>
+      <webElementGuid>895209a0-073c-4ce9-bcd0-ce69e51b4c9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pengguna yang Anda hapus dan semua hal yang terkait dengan akun ini akan hilang permanen.</value>
+      <webElementGuid>955d20c6-0149-4124-9aed-3a644391e041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;legion-modal legion-modal--show px-4 css-tiih7k&quot;]/div[@class=&quot;legion-modal__dialog&quot;]/div[@class=&quot;legion-modal__body&quot;]/div[@class=&quot;legion-flex css-ck07v6&quot;]/span[@class=&quot;legion-text  css-1po92s2&quot;]</value>
+      <webElementGuid>c5513fca-16b9-4485-8f11-5bf4aa8324c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>0ad296a4-b231-41b7-9140-ccce242a7c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anda yakin ingin menghapus Internal Admin?'])[1]/following::span[1]</value>
+      <webElementGuid>00d47a91-d23b-4f87-b5b2-4b28959478f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf806d46-e14d-4c02-a43d-03f80bac0386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[2]</value>
+      <webElementGuid>33be0731-48da-483d-b79f-d7cb07f1aaf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pengguna yang Anda hapus dan semua hal yang terkait dengan akun ini akan hilang permanen.']/parent::*</value>
+      <webElementGuid>25aea58b-64ed-4e91-8d63-95776f3390fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span[2]</value>
+      <webElementGuid>25e28183-c4d2-4f4c-908b-b222ffa9750d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pengguna yang Anda hapus dan semua hal yang terkait dengan akun ini akan hilang permanen.' or . = 'Pengguna yang Anda hapus dan semua hal yang terkait dengan akun ini akan hilang permanen.')]</value>
+      <webElementGuid>73706087-90b1-4433-b933-7b3052604d2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

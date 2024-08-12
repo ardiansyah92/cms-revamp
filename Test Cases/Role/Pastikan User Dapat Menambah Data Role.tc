@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User Dapat Menambah Data Role</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2fc52138-7eea-4655-914d-5a29ebd68812</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b73db4ef-9746-4e7d-b340-4d3396f8aff0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'New Role'</defaultValue>
+      <description></description>
+      <id>b73db4ef-9746-4e7d-b340-4d3396f8aff0</id>
+      <masked>false</masked>
+      <name>name_role</name>
+   </variable>
+</TestCaseEntity>

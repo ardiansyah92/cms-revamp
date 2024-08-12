@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pastikan User dapat melakukan Ubah Status</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3615d245-5543-408b-83fa-0a06220f9b2a</testCaseGuid>
+</TestCaseEntity>

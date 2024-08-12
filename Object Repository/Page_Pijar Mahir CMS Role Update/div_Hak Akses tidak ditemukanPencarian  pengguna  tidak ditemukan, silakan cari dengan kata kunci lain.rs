@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Hak Akses tidak ditemukanPencarian  pengguna  tidak ditemukan, silakan cari dengan kata kunci lain</name>
+   <tag></tag>
+   <elementGuidId>a1f1cb92-4e12-4693-83ac-5b3c55ab56b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4a1f1d2a-4c1a-4593-9609-8029739f740c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>border-t bg-tertiary-25 px-4 py-14 md:p-40</value>
+      <webElementGuid>5871090e-bb50-4cdb-8c2e-f5df5a1c08d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hak Akses tidak ditemukanPencarian  pengguna`  tidak ditemukan, silakan cari dengan kata kunci lain.</value>
+      <webElementGuid>f583cc40-e4c1-403d-8209-7f29133917e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;max-w-screen-2xl mx-auto flex my-4 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;max-w-full border-t p-4 md:p-8 md:border-2 mt-4 md:rounded-lg&quot;]/div[@class=&quot;border-t bg-tertiary-25 px-4 py-14 md:p-40&quot;]</value>
+      <webElementGuid>881d8703-ec44-49f7-96fd-c3480ab5406a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]</value>
+      <webElementGuid>f4df14d9-c537-41cd-937a-adb1e3a3b0db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan Pilihan'])[2]/following::div[1]</value>
+      <webElementGuid>2d00fad3-373e-412b-bd05-e461a7c13c60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batalkan Pilihan'])[1]/following::div[5]</value>
+      <webElementGuid>4e93060d-6172-46d3-89af-56e68decd757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]</value>
+      <webElementGuid>ffe499f7-5ef4-495d-ad9e-247f7539106d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hak Akses tidak ditemukanPencarian  pengguna`  tidak ditemukan, silakan cari dengan kata kunci lain.' or . = 'Hak Akses tidak ditemukanPencarian  pengguna`  tidak ditemukan, silakan cari dengan kata kunci lain.')]</value>
+      <webElementGuid>2676962e-4870-42cb-a230-94588e76f441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Binus Center</name>
+   <tag></tag>
+   <elementGuidId>ee91d92c-9002-408b-8d86-ef336fbc1ae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[9]/div[2]/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3d417ab-19c9-41df-97aa-887895b7fd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b7c57fd0-c1f1-4b5c-83a4-773fb6d0257e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-select__item  border-b sm:border-b-0</value>
+      <webElementGuid>b2445e45-3160-44f0-993d-a33909858650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b6fe5feb-926c-49d6-9e58-6c290a0ca1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Binus Center</value>
+      <webElementGuid>90f04ada-3daa-455b-98b9-4e44442ef76c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;flex flex-row my-6 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;border-[1px] md:border-2 mt-4 p-4 md:p-8 md:rounded-lg&quot;]/div[@class=&quot;mb-6&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;css-p7d115&quot;]/span[@class=&quot;legion-select__item  border-b sm:border-b-0&quot;]</value>
+      <webElementGuid>1c95592b-191d-4d04-8b11-517f4d5126ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[9]/div[2]/div/div[2]/span</value>
+      <webElementGuid>dcfd4dd9-172f-4386-9842-1fa976dd303d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Lembaga Pelatihan'])[1]/following::span[4]</value>
+      <webElementGuid>7dd22261-05a9-4c7b-a064-c98ba7f55d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accelerice'])[1]/preceding::span[1]</value>
+      <webElementGuid>a56b919f-de5c-43fa-b3a8-4824e2d948b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akakdemi Kopitani'])[1]/preceding::span[2]</value>
+      <webElementGuid>11067331-fb53-42f5-aa59-789b90d3ad88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Binus Center']/parent::*</value>
+      <webElementGuid>14a16c16-814a-4e56-9955-de07e8ebb7ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/span</value>
+      <webElementGuid>1a2e33e3-1d81-44cb-90d6-1166d8a1e830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Binus Center' or . = ' Binus Center')]</value>
+      <webElementGuid>2305b028-3053-41c9-93f1-57ae95a537eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

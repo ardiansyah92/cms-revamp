@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tidak Aktif</name>
+   <tag></tag>
+   <elementGuidId>f913eb0e-ddd6-4e26-9b98-290c0623c0e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div[2]/div/div/div/div[2]/div/label[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86f6e973-af5d-4a43-b282-ef0fbfc9cded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_labelText__8djhY</value>
+      <webElementGuid>70646f60-1f5e-4354-9b2a-1c0fc34660d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tidak Aktif</value>
+      <webElementGuid>7d73f763-0633-4b62-996a-ee55c13dcb43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;legion-modal legion-modal--show px-4 css-tiih7k&quot;]/div[@class=&quot;legion-modal__dialog&quot;]/div[@class=&quot;legion-modal__body&quot;]/div[@class=&quot;legion-flex css-ck07v6&quot;]/div[@class=&quot;flex gap-x-4&quot;]/div[1]/label[@class=&quot;style_labelContainer__n2Z9_&quot;]/span[@class=&quot;style_labelText__8djhY&quot;]</value>
+      <webElementGuid>2cfa0652-d934-43d2-b326-fe00bb6f9b00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div[2]/div/div/div/div[2]/div/label[2]/span[2]</value>
+      <webElementGuid>7343e959-5025-4bd1-8fd2-dc86e1756426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[8]/following::span[2]</value>
+      <webElementGuid>66a700aa-8ed7-4e91-b96a-f5e6467c9287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perubahan status akan mempengaruhi hak akses pengguna yang telah terdaftar.'])[1]/following::span[4]</value>
+      <webElementGuid>268ea3d4-0ffe-46e0-901d-b93e4e8a58ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::span[1]</value>
+      <webElementGuid>371015b5-1863-458d-a9d5-863b7f0a6e10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah Status'])[1]/preceding::span[2]</value>
+      <webElementGuid>d349b2f4-f639-4a62-946b-a81801d8091c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]/span[2]</value>
+      <webElementGuid>2ec113db-9c82-474a-a631-9a9cf0445cd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tidak Aktif' or . = 'Tidak Aktif')]</value>
+      <webElementGuid>2497daec-a48f-4184-92f5-663e90110eb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Semua Role</name>
+   <tag></tag>
+   <elementGuidId>5b8f76c6-798c-4a4c-99aa-dc8d01a70a45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94cc67d7-1cba-4578-87bd-9873ba4f07fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ba069e45-0e86-4e01-938b-cefae1a6d0b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-select__item legion-select__item--selected border-b sm:border-b-0</value>
+      <webElementGuid>374c03bd-4d63-4e30-a335-d3007187ca4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>65fb751f-b265-4e7d-8f78-e0e1c56c8673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Semua Role</value>
+      <webElementGuid>250bd21e-e993-487d-8292-0cff08bc268e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;p-6&quot;]/div[@class=&quot;pt-4 pb-4 md:p-4 border rounded-lg&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex-1 flex gap-2 md:gap-4 flex-wrap px-2&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md  w-full md:w-auto md:min-w-48 css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;css-p7d115&quot;]/span[@class=&quot;legion-select__item legion-select__item--selected border-b sm:border-b-0&quot;]</value>
+      <webElementGuid>3057367c-d331-493d-9e03-50897964845e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/div/div/div/div[2]/div/div[2]/span</value>
+      <webElementGuid>487761ea-48ec-4fe6-98d1-d972dfa6b433</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Role'])[1]/following::span[4]</value>
+      <webElementGuid>232a881e-8dc5-4d0f-ab4b-c10409a0c473</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Internal'])[1]/preceding::span[1]</value>
+      <webElementGuid>ecfb3cd1-ff49-4d9d-b10b-59b8a8072057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B2B'])[1]/preceding::span[2]</value>
+      <webElementGuid>aa047777-949a-4eea-83a2-834b300a6ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>c5d0955f-3cc7-48fb-9c19-b7f13249ddc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Semua Role' or . = 'Semua Role')]</value>
+      <webElementGuid>0191ff6e-1a9e-4b7d-82ce-2b575e4dcea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

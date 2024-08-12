@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_RolePencarian  tidak ditemukan, silakan cari dengan kata kunci lain</name>
+   <tag></tag>
+   <elementGuidId>f4316ded-9710-407c-8933-9f3119d29dfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[8]/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-p7d115</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ef21a1a-cadd-4e89-b1c3-6dfe962b4eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-p7d115</value>
+      <webElementGuid>99da83d7-321f-4bc1-84c1-e6abeedaf6ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> RolePencarian ` tidak ditemukan, silakan cari dengan kata kunci lain</value>
+      <webElementGuid>9a18858f-d782-4780-9144-60db0ddef46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;flex flex-row my-6 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;border-[1px] md:border-2 mt-4 p-4 md:p-8 md:rounded-lg&quot;]/div[@class=&quot;mb-6&quot;]/div[@class=&quot;legion-select legion-select--outline-normal legion-select--md css-161bn5y&quot;]/div[@class=&quot;legion-select__inner&quot;]/div[@class=&quot;css-p7d115&quot;]</value>
+      <webElementGuid>25f036b6-59bb-4264-bb70-94ceb2d41e43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[8]/div[2]/div/div[2]</value>
+      <webElementGuid>9b42472f-b0c0-4fec-8b99-58a99bf991c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Internal'])[1]/following::div[1]</value>
+      <webElementGuid>1086d080-fa61-434b-ada7-4f6cda3e3427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[2]/following::div[3]</value>
+      <webElementGuid>82130d57-df11-4ff4-9ec4-503afe1566c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]</value>
+      <webElementGuid>11e22de1-724b-4f58-a85a-c2cead0487f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' RolePencarian ` tidak ditemukan, silakan cari dengan kata kunci lain' or . = ' RolePencarian ` tidak ditemukan, silakan cari dengan kata kunci lain')]</value>
+      <webElementGuid>8c2f6cf6-a8be-4461-aa1c-38e6f9f42825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

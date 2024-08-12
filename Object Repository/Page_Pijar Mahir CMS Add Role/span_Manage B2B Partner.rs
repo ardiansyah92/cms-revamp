@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage B2B Partner</name>
+   <tag></tag>
+   <elementGuidId>368ece6c-d56d-49bd-ada3-053aafedf07f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div[2]/div/fieldset/div/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f049eee0-60a1-4e91-8891-bffcc2f4251d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>legion-checkbox__text</value>
+      <webElementGuid>cc162d99-06aa-42d1-b024-28bdeb3411a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage B2B Partner</value>
+      <webElementGuid>366b9d1c-3604-4a20-aabd-051d8944d8f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;md:flex w-full sm:min-w-[1366px]&quot;]/div[@class=&quot;flex-1 transition-all duration-300 ease-in-out md:ml-[285px]&quot;]/main[1]/div[@class=&quot;max-w-screen-2xl mx-auto flex my-4 md:my-10&quot;]/div[2]/form[1]/div[@class=&quot;max-w-full border-t p-4 md:p-8 md:border-2 mt-4 md:rounded-lg&quot;]/div[@class=&quot;max-h-[450px] overflow-x-hidden 
+                overflow-y-auto border-t-[1px] style_bgCheckbox__hnqse&quot;]/div[@class=&quot;mb-2&quot;]/div[@class=&quot;pl-7 border-b py-3&quot;]/div[1]/fieldset[1]/div[@class=&quot;flex gap-x-4 grid grid-cols-1 md:grid-cols-3 gap-4 p-4&quot;]/label[@class=&quot;legion-checkbox legion-checkbox--md css-idhqfh&quot;]/span[@class=&quot;legion-checkbox__text&quot;]</value>
+      <webElementGuid>f6cc22cd-a7e3-4dde-94d9-f09b51566cff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='app']/div/div/main/div/div[2]/form/div/div[4]/div/div[2]/div/fieldset/div/label/span[2]</value>
+      <webElementGuid>29a515d2-719a-489e-9452-b5e4dfafd12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Transaksi'])[2]/following::span[2]</value>
+      <webElementGuid>8eea4f2c-4dfa-4113-94bd-dbb9718a51ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[9]</value>
+      <webElementGuid>b5ecfeb1-8435-429d-9702-d91dcb55ff0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/preceding::span[2]</value>
+      <webElementGuid>dfee2009-3532-4930-81c7-48c2ef71b540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage B2B Partner'])[3]/preceding::span[4]</value>
+      <webElementGuid>70d1b4d5-dd44-44ba-a95c-53d6f3a563c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/label/span[2]</value>
+      <webElementGuid>936300b7-0220-47ae-b2ef-ca6a5b067703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage B2B Partner' or . = 'Manage B2B Partner')]</value>
+      <webElementGuid>b3f87abd-1dd8-4bb3-99c6-241452ee7dff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
